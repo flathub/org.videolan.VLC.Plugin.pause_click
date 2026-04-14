@@ -3,13 +3,13 @@
   "build-extension": true,
   "runtime": "org.videolan.VLC",
   "runtime-version": "stable",
-  "sdk": "org.freedesktop.Sdk//24.08",
-  "branch": "3-24.08",
+  "sdk": "org.freedesktop.Sdk//25.08",
+  "branch": "3-25.08",
   "separate-locales": false,
   "appstream-compose": false,
   "build-options": {
     "env": {
-      "V": 1
+      "V": "1"
     }
   },
   "modules": [
